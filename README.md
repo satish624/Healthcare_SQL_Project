@@ -116,59 +116,39 @@ The project consists of **12 relational tables** connected using primary and for
 
 ### Entity Relationship Diagram
 
-> Add the ERD image after uploading it to GitHub.
-
-```markdown
 ![Healthcare ERD](docs/healthcare_erd.png)
-```
-
 ---
 
 # 📷 Project Screenshots
 
 ## Database
 
-```markdown
 ![Database](screenshots/01_database.png)
-```
-
 ---
 
 ## Tables
 
-```markdown
 ![Tables](screenshots/03_tables.png)
-```
-
 ---
 
 ## Entity Relationship Diagram
 
-```markdown
 ![ERD](screenshots/04_erd.png)
-```
-
 ---
 
 ## SQL Query Examples
 
 ### Basic Query
 
-```markdown
 ![Basic Query](screenshots/06_basic_queries.png)
-```
 
 ### Intermediate Query
 
-```markdown
 ![Intermediate Query](screenshots/07_intermediate_queries.png)
-```
 
 ### Advanced Query
 
-```markdown
 ![Advanced Query](screenshots/08_advanced_queries.png)
-```
 
 ---
 
@@ -176,34 +156,24 @@ The project consists of **12 relational tables** connected using primary and for
 
 ### Views
 
-```markdown
 ![Views](screenshots/09_views.png)
-```
 
 ### Functions
 
-```markdown
 ![Functions](screenshots/10_functions.png)
-```
 
 ### Stored Procedures
 
-```markdown
 ![Stored Procedures](screenshots/11_stored_procedures.png)
-```
 
 ### Triggers
 
-```markdown
 ![Triggers](screenshots/12_triggers.png)
-```
+
 
 ### Indexes
 
-```markdown
 ![Indexes](screenshots/13_indexes.png)
-```
-
 ---
 
 # ✨ SQL Features Demonstrated
