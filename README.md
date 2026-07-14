@@ -252,6 +252,6 @@ The project consists of **12 relational tables** connected using primary and for
 
 Data Analyst | SQL | PostgreSQL | Python | Power BI | Excel
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+LinkedIn: https://www.linkedin.com/in/satishmudari/
 
-GitHub: *(Add your GitHub profile URL here)*
+GitHub: https://github.com/satish624
