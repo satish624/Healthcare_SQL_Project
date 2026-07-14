@@ -1,0 +1,21 @@
+hospital_id,hospital_name,city,state,phone,email,established_year
+1,Apollo Hospitals,Bengaluru,Karnataka,0433218196,apollohospitals@gmail.com,1981
+2,Yashoda Hospitals,Pune,Maharashtra,3890838637,yashodahospitals@gmail.com,1995
+3,CARE Hospitals,Mumbai,Maharashtra,6542351161,carehospitals@gmail.com,1988
+4,AIG Hospitals,Bengaluru,Karnataka,0781618495,aighospitals@gmail.com,2014
+5,KIMS Hospitals,Bengaluru,Karnataka,3413164752,kimshospitals@gmail.com,2017
+6,Sunshine Hospitals,Kolkata,West Bengal,1928327648,sunshinehospitals@gmail.com,1982
+7,Continental Hospitals,Hyderabad,Telangana,0564139537,continentalhospitals@gmail.com,1985
+8,Rainbow Children's Hospital,Mumbai,Maharashtra,2388496965,rainbowchildrenshospital@gmail.com,1994
+9,Medicover Hospitals,Kochi,Kerala,1012269166,medicoverhospitals@gmail.com,2018
+10,Star Hospitals,Hyderabad,Telangana,8018451462,starhospitals@gmail.com,2015
+11,Global Hospitals,Mumbai,Maharashtra,8148932528,globalhospitals@gmail.com,2021
+12,Omega Hospitals,Kochi,Kerala,7015430391,omegahospitals@gmail.com,2006
+13,Citizens Hospital,Mumbai,Maharashtra,2782489638,citizenshospital@gmail.com,2008
+14,Basavatarakam Hospital,Visakhapatnam,Andhra Pradesh,7871331509,basavatarakamhospital@gmail.com,1997
+15,Virinchi Hospital,Hyderabad,Telangana,0103105183,virinchihospital@gmail.com,1990
+16,Max Healthcare,Kolkata,West Bengal,9973763116,maxhealthcare@gmail.com,2001
+17,Fortis Hospital,Pune,Maharashtra,0106513338,fortishospital@gmail.com,1989
+18,Narayana Health,Mumbai,Maharashtra,4731781080,narayanahealth@gmail.com,2001
+19,Manipal Hospital,Bengaluru,Karnataka,7736026064,manipalhospital@gmail.com,1985
+20,Artemis Hospital,Kolkata,West Bengal,2343098050,artemishospital@gmail.com,1986

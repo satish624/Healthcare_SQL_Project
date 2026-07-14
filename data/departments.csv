@@ -1,0 +1,198 @@
+department_id,hospital_id,department_name,floor_number,head_of_department
+1,1,Psychiatry,1,Dakshesh Trivedi
+2,1,Dermatology,2,Quincy Biswas
+3,1,Emergency Medicine,3,Wahab Raval
+4,1,Oncology,4,Yatin Baral
+5,1,Cardiology,5,Oni Virk
+6,1,Ophthalmology,6,Advika Jayaraman
+7,1,General Medicine,7,William Lanka
+8,1,Neurology,8,Karan Mital
+9,1,Pediatrics,9,Diya Bora
+10,1,Pulmonology,10,Tara Chaudhry
+11,2,Oncology,1,Tanay Toor
+12,2,Psychiatry,2,Kevin Palla
+13,2,Pulmonology,3,Yash Pingle
+14,2,Emergency Medicine,4,Nakul Sarma
+15,2,Dermatology,5,Abhiram Mistry
+16,2,Nephrology,6,Krish Lalla
+17,2,Pediatrics,7,Hredhaan Dugal
+18,2,Neurology,8,Baghyawati Kade
+19,2,Cardiology,9,Samar Lalla
+20,2,Urology,10,Zayan Behl
+21,2,Ophthalmology,11,Pallavi Malhotra
+22,2,Orthopedics,12,Aarush Nath
+23,3,Psychiatry,1,Adweta Edwin
+24,3,Pediatrics,2,Prisha Andra
+25,3,Neurology,3,Faqid Dixit
+26,3,ENT,4,Kala Divan
+27,3,Oncology,5,Joshua Barman
+28,3,Ophthalmology,6,Janya Baral
+29,3,Dermatology,7,Shivansh Krish
+30,3,Orthopedics,8,Irya Ray
+31,4,Dermatology,1,Warjas Gaba
+32,4,Pediatrics,2,Nitara Bakshi
+33,4,Pulmonology,3,Gaurangi Sabharwal
+34,4,Oncology,4,Amara Dutta
+35,4,Urology,5,Lavanya Barad
+36,4,Neurology,6,Tristan Iyengar
+37,4,Orthopedics,7,Inaya Mody
+38,4,Psychiatry,8,Udant Bajwa
+39,4,Emergency Medicine,9,Mohini Narasimhan
+40,4,Ophthalmology,10,Ekaraj Mallick
+41,5,Oncology,1,Yashodhara Ratta
+42,5,Pulmonology,2,Ayaan D’Alia
+43,5,Nephrology,3,Pranav Lanka
+44,5,General Medicine,4,Ikbal Saraf
+45,5,Pediatrics,5,Dipta Sarin
+46,5,Dermatology,6,Lekha Gupta
+47,5,Cardiology,7,Chaitanya Sarin
+48,5,Psychiatry,8,Zinal Yohannan
+49,5,ENT,9,Januja Sankar
+50,5,Urology,10,Ganga Murthy
+51,5,Orthopedics,11,Charita Tripathi
+52,6,Oncology,1,Nilima Narain
+53,6,Neurology,2,Chakrika Datta
+54,6,Pediatrics,3,Osha Raghavan
+55,6,Emergency Medicine,4,Charvi Ravi
+56,6,Dermatology,5,Daksha Mangat
+57,6,Urology,6,Qushi Nagy
+58,6,Ophthalmology,7,Riya Sathe
+59,6,ENT,8,Yasti Solanki
+60,6,Pulmonology,9,Frado Mander
+61,6,Nephrology,10,Girik Keer
+62,6,Psychiatry,11,Umang Issac
+63,7,Orthopedics,1,Aryan Batra
+64,7,Pediatrics,2,Vaishnavi Bora
+65,7,Nephrology,3,Oeshi Hayer
+66,7,General Medicine,4,Warda Ratta
+67,7,Urology,5,Manbir Ahluwalia
+68,7,Oncology,6,Pavani Kanda
+69,7,ENT,7,Zarna Shetty
+70,7,Pulmonology,8,Zaid Dara
+71,7,Gastroenterology,9,Kiaan Shetty
+72,7,Neurology,10,Saanvi Thaman
+73,8,General Medicine,1,Sanaya Dutt
+74,8,Ophthalmology,2,Shivani Lad
+75,8,Neurology,3,Aradhana Verma
+76,8,Cardiology,4,William Maharaj
+77,8,Urology,5,Faras Mangal
+78,8,Orthopedics,6,Anita Nayak
+79,8,Emergency Medicine,7,Faris Devi
+80,8,ENT,8,Vihaan Rajagopal
+81,8,Oncology,9,Tanish Bhatt
+82,9,ENT,1,Nikita Narayanan
+83,9,Gastroenterology,2,Ojasvi Bhatia
+84,9,Emergency Medicine,3,Osha Ramachandran
+85,9,Ophthalmology,4,Lajita Sood
+86,9,General Medicine,5,Indira Misra
+87,9,Oncology,6,Oni Yohannan
+88,9,Pulmonology,7,Vinaya Kanda
+89,9,Cardiology,8,Rajata Sunder
+90,10,Pulmonology,1,Lopa Nayar
+91,10,General Medicine,2,Noah Sibal
+92,10,Urology,3,Avi Ramesh
+93,10,Oncology,4,Fiyaz Sangha
+94,10,Gastroenterology,5,Triya Gopal
+95,10,Dermatology,6,Abha Raghavan
+96,10,Neurology,7,Siddharth Sha
+97,10,Nephrology,8,Geetika Raghavan
+98,11,Orthopedics,1,Oviya Krishnan
+99,11,Ophthalmology,2,Upma Bahl
+100,11,Cardiology,3,Inaya Kapur
+101,11,Nephrology,4,Banjeet Balasubramanian
+102,11,Oncology,5,Ryan Bahri
+103,11,General Medicine,6,William Date
+104,11,Gastroenterology,7,Ishwar Kamdar
+105,11,Neurology,8,Aahana Pillay
+106,11,ENT,9,Ishwar Gade
+107,11,Dermatology,10,Hritik Bal
+108,11,Emergency Medicine,11,Keya Ranganathan
+109,12,Emergency Medicine,1,Faqid Kibe
+110,12,Pediatrics,2,Charvi Dara
+111,12,Orthopedics,3,Idika Walia
+112,12,Dermatology,4,Kamala Biswas
+113,12,Urology,5,Advik Salvi
+114,12,General Medicine,6,Hitesh Sant
+115,12,Gastroenterology,7,Tripti Dua
+116,12,Cardiology,8,Patrick Vig
+117,12,Oncology,9,Veda Shroff
+118,12,Pulmonology,10,Amrita Naidu
+119,12,Psychiatry,11,Gabriel Mallick
+120,12,Ophthalmology,12,Yagnesh Shetty
+121,13,Gastroenterology,1,Gayathri Balakrishnan
+122,13,Dermatology,2,Ekta Gopal
+123,13,Urology,3,Simon Pant
+124,13,Oncology,4,Harini Mammen
+125,13,Pediatrics,5,Advaith Varughese
+126,13,Cardiology,6,Frederick Khurana
+127,13,Pulmonology,7,Vrinda Khosla
+128,13,Neurology,8,Vritti Sem
+129,14,Nephrology,1,Girik Menon
+130,14,Ophthalmology,2,Nidhi Kohli
+131,14,Neurology,3,Jyoti Solanki
+132,14,General Medicine,4,Pavani Narayanan
+133,14,Orthopedics,5,Sudiksha Madan
+134,14,Pulmonology,6,Zayan Kashyap
+135,14,Psychiatry,7,Reyansh Mutti
+136,14,Emergency Medicine,8,Qasim Handa
+137,15,General Medicine,1,Veda Malhotra
+138,15,Psychiatry,2,Harish Hari
+139,15,Emergency Medicine,3,Utkarsh Patel
+140,15,ENT,4,Chasmum Atwal
+141,15,Pediatrics,5,Anusha Bath
+142,15,Gastroenterology,6,Brinda Date
+143,15,Pulmonology,7,Harshil Arora
+144,15,Oncology,8,Upasna Srinivas
+145,15,Urology,9,Harini Gour
+146,15,Dermatology,10,Zayyan Sridhar
+147,16,Ophthalmology,1,Dhruv Rattan
+148,16,General Medicine,2,Ethan Bera
+149,16,Gastroenterology,3,Manthan Modi
+150,16,Neurology,4,Yuvraj Dani
+151,16,Pediatrics,5,Upkaar Virk
+152,16,Pulmonology,6,Shravya Savant
+153,16,Nephrology,7,Pushti Mody
+154,16,Dermatology,8,Hardik Johal
+155,16,Cardiology,9,Aishani Bumb
+156,16,Oncology,10,Wriddhish Ghose
+157,17,Pediatrics,1,Naksh Agate
+158,17,Emergency Medicine,2,Shravya Singhal
+159,17,Gastroenterology,3,Bachittar Kata
+160,17,Cardiology,4,Barkha Setty
+161,17,Neurology,5,Vivaan Lalla
+162,17,Nephrology,6,Pavani Contractor
+163,17,Urology,7,Manthan Lata
+164,17,Pulmonology,8,Ekbal Bhasin
+165,17,Psychiatry,9,Damyanti Mani
+166,17,Orthopedics,10,Jeet Sidhu
+167,17,ENT,11,Neha Magar
+168,17,Ophthalmology,12,Raksha Buch
+169,18,Pulmonology,1,Rachana Naidu
+170,18,Ophthalmology,2,Atharv Chand
+171,18,Pediatrics,3,Ansh Luthra
+172,18,General Medicine,4,Parth Singhal
+173,18,Orthopedics,5,Arunima Golla
+174,18,Emergency Medicine,6,Vyanjana Chand
+175,18,Psychiatry,7,Ijaya Rege
+176,18,Urology,8,Ekani Cheema
+177,18,ENT,9,Forum Sabharwal
+178,18,Nephrology,10,Bhavya Rattan
+179,19,Pediatrics,1,Suhani Chakrabarti
+180,19,Neurology,2,Zayyan Naik
+181,19,Psychiatry,3,Netra Varkey
+182,19,Pulmonology,4,Turvi Sachdev
+183,19,ENT,5,Raghav Vasa
+184,19,Dermatology,6,Wishi Sathe
+185,19,Nephrology,7,Samar Loke
+186,19,General Medicine,8,Bhavna Sarma
+187,19,Gastroenterology,9,Jairaj Balakrishnan
+188,19,Emergency Medicine,10,Nathan Mukhopadhyay
+189,19,Cardiology,11,Nikita Chander
+190,20,Cardiology,1,Ishaan Shenoy
+191,20,ENT,2,Mitesh Tara
+192,20,Nephrology,3,Yashodhara Mahajan
+193,20,Dermatology,4,Vasudha Sodhi
+194,20,Neurology,5,Tanmayi Dhillon
+195,20,Pediatrics,6,Rayaan Trivedi
+196,20,Emergency Medicine,7,Ekaraj Majumdar
+197,20,General Medicine,8,Harini Tripathi
